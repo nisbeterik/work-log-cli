@@ -9,7 +9,7 @@ To compile the C file using GCC, use the following command in your terminal:
 
 gcc -o work_logger work_logger.c
 
-This will compile the worl-log-cli.c source code into an executable called worl-log-cli. You can then run it by simply typing:
+This will compile the work_logger.c source code into an executable called work_logger. You can then run it by simply typing:
 
 
 ./work_logger
